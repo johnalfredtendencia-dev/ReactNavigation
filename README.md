@@ -3,10 +3,10 @@ https://docs.google.com/spreadsheets/d/15IOW8eGoPm6FNUq_nc9hiGi6-PPiuObCsvudZJKs
 A React Native application demonstrating stack navigation using React Navigation and Expo.
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student Number:** [Your Student Number]
+- **Name:** John Alfred M. Tendencia
+- **Student Number:** 202306025
 - **Course:** DCIT 26 - Application Development and Emerging Technologies
-- **Date:** [Submission Date]
+- **Date:** December 12, 2025
 
 ## Features
 - Stack navigation between screens
@@ -132,7 +132,7 @@ Example:
 ## Challenges Faced
 
 [Document any challenges you encountered during the lab and how you resolved them]
-
+Android
 Example:
 - **Challenge:** Android SDK not found
 - **Solution:** Set ANDROID_HOME environment variable and added to PATH
@@ -209,9 +209,9 @@ npm install
 
 This project is submitted as part of the Mobile Application Development course lab activity.
 
-**Repository Link:** [Add your GitHub repository link here]
+**Repository Link:** https://github.com/johnalfredtendencia-dev/React-Navigation
 
 ---
 
-**Completed by:** [Your Name]  
-**Submission Date:** [Date]
+**Completed by:** John Alfred M. Tendencia 
+**Submission Date:** December 2, 2025
