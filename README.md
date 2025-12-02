@@ -5,7 +5,7 @@ A React Native application demonstrating stack navigation using React Navigation
 ## Student Information
 - **Name:** [Your Full Name]
 - **Student Number:** [Your Student Number]
-- **Course:** Mobile Application Development
+- **Course:** DCIT 26 - Application Development and Emerging Technologies
 - **Date:** [Submission Date]
 
 ## Features
