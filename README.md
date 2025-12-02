@@ -4,7 +4,7 @@ A React Native application demonstrating stack navigation using React Navigation
 
 ## Student Information
 - **Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
+- **Student Number:** [Your Student Number]
 - **Course:** Mobile Application Development
 - **Date:** [Submission Date]
 
